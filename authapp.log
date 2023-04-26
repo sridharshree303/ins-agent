@@ -1,0 +1,253 @@
+2023-04-26T15:41:04.959+05:30  INFO 22460 --- [restartedMain] insagent.insagent.InsAgentApplication    : Starting InsAgentApplication using Java 17.0.6 with PID 22460 (C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent\target\classes started by kosridha in C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent)
+2023-04-26T15:41:04.966+05:30  INFO 22460 --- [restartedMain] insagent.insagent.InsAgentApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T15:41:05.034+05:30  INFO 22460 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-26T15:41:05.035+05:30  INFO 22460 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-26T15:41:05.823+05:30  INFO 22460 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-26T15:41:05.901+05:30  INFO 22460 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 65 ms. Found 2 JPA repository interfaces.
+2023-04-26T15:41:06.547+05:30  INFO 22460 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-04-26T15:41:06.561+05:30  INFO 22460 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T15:41:06.561+05:30  INFO 22460 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T15:41:06.629+05:30  INFO 22460 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T15:41:06.629+05:30  INFO 22460 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1593 ms
+2023-04-26T15:41:06.744+05:30  INFO 22460 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-26T15:41:06.784+05:30  INFO 22460 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-04-26T15:41:07.006+05:30  INFO 22460 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-26T15:41:07.247+05:30  INFO 22460 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4aa3af98
+2023-04-26T15:41:07.249+05:30  INFO 22460 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-04-26T15:41:07.287+05:30  INFO 22460 --- [restartedMain] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-26T15:41:08.132+05:30  INFO 22460 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-26T15:41:08.143+05:30  INFO 22460 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-26T15:41:08.585+05:30  WARN 22460 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-26T15:41:09.557+05:30  INFO 22460 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-26T15:41:09.652+05:30  INFO 22460 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-04-26T15:41:09.683+05:30  INFO 22460 --- [restartedMain] insagent.insagent.InsAgentApplication    : Started InsAgentApplication in 5.12 seconds (process running for 6.039)
+2023-04-26T15:41:09.693+05:30  INFO 22460 --- [restartedMain] insagent.insagent.InsAgentApplication    : End
+2023-04-26T15:48:09.364+05:30  INFO 20692 --- [restartedMain] insagent.insagent.InsAgentApplication    : Starting InsAgentApplication using Java 17.0.6 with PID 20692 (C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent\target\classes started by kosridha in C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent)
+2023-04-26T15:48:09.367+05:30  INFO 20692 --- [restartedMain] insagent.insagent.InsAgentApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T15:48:09.441+05:30  INFO 20692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-26T15:48:09.442+05:30  INFO 20692 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-26T15:48:10.093+05:30  INFO 20692 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-26T15:48:10.174+05:30  INFO 20692 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 72 ms. Found 2 JPA repository interfaces.
+2023-04-26T15:48:10.784+05:30  INFO 20692 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-04-26T15:48:10.795+05:30  INFO 20692 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T15:48:10.795+05:30  INFO 20692 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T15:48:10.886+05:30  INFO 20692 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T15:48:10.887+05:30  INFO 20692 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1445 ms
+2023-04-26T15:48:11.059+05:30  INFO 20692 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-26T15:48:11.108+05:30  INFO 20692 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-04-26T15:48:11.315+05:30  INFO 20692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-26T15:48:11.569+05:30  INFO 20692 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5f21720
+2023-04-26T15:48:11.570+05:30  INFO 20692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-04-26T15:48:11.602+05:30  INFO 20692 --- [restartedMain] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-26T15:48:12.393+05:30  INFO 20692 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-26T15:48:12.400+05:30  INFO 20692 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-26T15:48:12.762+05:30  WARN 20692 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-26T15:48:13.450+05:30  WARN 20692 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-04-26T15:48:13.482+05:30  WARN 20692 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-04-26T15:48:13.485+05:30  INFO 20692 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-26T15:48:13.488+05:30  INFO 20692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-04-26T15:48:13.533+05:30  INFO 20692 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-04-26T15:48:13.536+05:30  INFO 20692 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-26T15:48:13.549+05:30  INFO 20692 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-26T15:48:13.566+05:30 ERROR 20692 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
+2023-04-26T15:48:22.652+05:30  INFO 22460 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-26T15:48:22.670+05:30  INFO 22460 --- [RMI TCP Connection(11)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-26T15:48:22.681+05:30  INFO 22460 --- [RMI TCP Connection(11)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-26T15:48:22.685+05:30  INFO 22460 --- [RMI TCP Connection(11)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-04-26T15:48:22.689+05:30  INFO 22460 --- [RMI TCP Connection(11)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-04-26T15:48:41.823+05:30  INFO 5284 --- [restartedMain] insagent.insagent.InsAgentApplication    : Starting InsAgentApplication using Java 17.0.6 with PID 5284 (C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent\target\classes started by kosridha in C:\Users\kosridha\Desktop\Resume\FullStackAssigment1\ins-agent)
+2023-04-26T15:48:41.825+05:30  INFO 5284 --- [restartedMain] insagent.insagent.InsAgentApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T15:48:41.880+05:30  INFO 5284 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-26T15:48:41.881+05:30  INFO 5284 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-26T15:48:42.540+05:30  INFO 5284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-26T15:48:42.613+05:30  INFO 5284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 63 ms. Found 2 JPA repository interfaces.
+2023-04-26T15:48:43.155+05:30  INFO 5284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-04-26T15:48:43.169+05:30  INFO 5284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T15:48:43.170+05:30  INFO 5284 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T15:48:43.261+05:30  INFO 5284 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T15:48:43.262+05:30  INFO 5284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1380 ms
+2023-04-26T15:48:43.395+05:30  INFO 5284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-26T15:48:43.441+05:30  INFO 5284 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-04-26T15:48:43.653+05:30  INFO 5284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-26T15:48:43.867+05:30  INFO 5284 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7939236e
+2023-04-26T15:48:43.869+05:30  INFO 5284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-04-26T15:48:43.905+05:30  INFO 5284 --- [restartedMain] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-04-26T15:48:44.719+05:30  INFO 5284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-26T15:48:44.728+05:30  INFO 5284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-26T15:48:45.103+05:30  WARN 5284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-26T15:48:45.910+05:30  INFO 5284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-26T15:48:45.953+05:30  INFO 5284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-04-26T15:48:45.963+05:30  INFO 5284 --- [restartedMain] insagent.insagent.InsAgentApplication    : Started InsAgentApplication in 4.594 seconds (process running for 5.427)
+2023-04-26T15:48:45.967+05:30  INFO 5284 --- [restartedMain] insagent.insagent.InsAgentApplication    : End
+2023-04-26T15:48:58.222+05:30  INFO 5284 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-26T15:48:58.223+05:30  INFO 5284 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-26T15:48:58.226+05:30  INFO 5284 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2023-04-26T15:48:58.635+05:30  INFO 5284 --- [http-nio-8082-exec-3] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 241 ms
+2023-04-26T15:49:07.324+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T15:49:07.324+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T15:49:07.477+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T15:49:07.477+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:03:47.980+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:03:47.980+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:03:47.988+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:03:47.988+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:03:51.774+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:03:51.774+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:03:51.789+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:03:51.789+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:03:51.799+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:03:51.799+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:03:51.801+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:03:51.801+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:16.058+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:16.058+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:16.066+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:16.066+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:37.091+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:37.095+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:37.103+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:37.103+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:40.347+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:40.347+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:40.350+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:40.350+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:40.360+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:40.360+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:40.368+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:40.368+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:53.392+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:53.393+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:53.394+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:53.394+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:57.546+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:57.546+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:57.547+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:57.555+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:04:57.560+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:04:57.560+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:04:57.560+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:04:57.560+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:05:28.236+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:05:28.236+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:05:28.244+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:05:28.244+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:05:33.760+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:05:33.760+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:05:33.760+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:05:33.760+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:05:56.308+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:05:56.308+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:05:56.316+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:05:56.316+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:06:59.235+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:06:59.235+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:06:59.240+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:06:59.240+05:30  INFO 5284 --- [http-nio-8082-exec-1] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:07:17.546+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:07:17.549+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:07:17.556+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:07:17.556+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:07:30.067+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:07:30.067+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:07:30.074+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:07:30.074+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:07:32.872+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:07:32.875+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:07:32.878+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:07:32.878+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:07:43.575+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:07:43.575+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:07:43.583+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:07:43.583+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:07:46.338+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:07:46.338+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:07:46.346+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:07:46.346+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:08:01.855+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:08:01.855+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:08:01.855+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:08:01.855+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:08:05.508+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:08:05.508+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:08:05.517+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:08:05.517+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:08:09.139+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:08:09.139+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:08:09.141+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:08:09.141+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:08:09.148+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T16:08:09.149+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T16:08:09.151+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T16:08:09.151+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T16:59:55.112+05:30  WARN 5284 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m15s4ms368µs500ns).
+2023-04-26T17:03:40.320+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:03:40.321+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:03:40.329+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:03:40.329+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:03:40.333+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:03:40.334+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:03:40.337+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:03:40.337+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:04:13.588+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:04:13.588+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:04:13.599+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:04:13.600+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:04:13.606+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:04:13.606+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:04:13.611+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:04:13.611+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:07:59.408+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:07:59.409+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:07:59.415+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:07:59.416+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:07:59.421+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:07:59.422+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:07:59.425+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:07:59.425+05:30  INFO 5284 --- [http-nio-8082-exec-8] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:08:13.399+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:08:13.399+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:08:13.403+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:08:13.403+05:30  INFO 5284 --- [http-nio-8082-exec-9] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:08:14.276+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:08:14.276+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:08:14.282+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:08:14.282+05:30  INFO 5284 --- [http-nio-8082-exec-10] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:13:53.033+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:13:53.033+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:13:53.038+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:13:53.039+05:30  INFO 5284 --- [http-nio-8082-exec-2] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:13:53.043+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:13:53.043+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:13:53.046+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:13:53.046+05:30  INFO 5284 --- [http-nio-8082-exec-3] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:14:06.355+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:14:06.356+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:14:06.362+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:14:06.363+05:30  INFO 5284 --- [http-nio-8082-exec-4] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:14:06.367+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:14:06.368+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:14:06.373+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:14:06.374+05:30  INFO 5284 --- [http-nio-8082-exec-5] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:14:48.188+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:14:48.189+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:14:48.194+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:14:48.194+05:30  INFO 5284 --- [http-nio-8082-exec-6] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
+2023-04-26T17:14:48.199+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : new leads controller
+2023-04-26T17:14:48.199+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads service
+2023-04-26T17:14:48.202+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.s.NewLeadsServicesImplementation     : get all leads returned
+2023-04-26T17:14:48.203+05:30  INFO 5284 --- [http-nio-8082-exec-7] i.i.c.NewLeadsServicesController         : list of new leads returned succesfully
