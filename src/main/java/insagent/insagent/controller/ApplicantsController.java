@@ -16,7 +16,8 @@ import insagent.insagent.services.ApplicantsServices;
 
 @RestController
 @RequestMapping("/applicant")
-@CrossOrigin(origins = {"http://localhost:3000"})
+//@CrossOrigin(origins = {"http://localhost:3000"})
+@CrossOrigin
 public class ApplicantsController {
 
 	private static final Logger LOG = LoggerFactory.getLogger(ApplicantsController.class);

@@ -31,7 +31,7 @@ public class NewLeadsServicesController {
 		LOG.info("new leads controller");
 		NewLeads temp = newleadsservices.registerLeads(lead);
 		LOG.info("new lead saved successfully");
-		return temp;	
+		return temp;
 	}
 	
 	@GetMapping("/viewall")
